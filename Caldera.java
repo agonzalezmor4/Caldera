@@ -5,12 +5,13 @@
  * informando cuanto se tiene que devolver o
  * cuanto mas tiene que pagar cada vecino.
  * 
- * @author Aitor Etxabarren
+ * @author Alex
  * @version 1.0
  */
 public class Caldera {
     
     // TODO: CONSTANTES
+    private final IMP_IVA =
 
     /** El IVA se aplica a todos los gasto. */
     
